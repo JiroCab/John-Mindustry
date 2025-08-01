@@ -1,2 +1,5 @@
-# John-Mindustry
-survival - 1s waves timer, attackmap - 30s thats all
+# John Mindustry
+survival waves timer is set to 1
+attack is set to 30
+good luck!
+

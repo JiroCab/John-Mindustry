@@ -1,0 +1,8 @@
+name: "johnmindustry"
+displayName: "john mindustry"
+author: "Rushie Washie"
+description: "survival - 1s waves timer, attackmap - 30s"
+version: "1.0"
+minGameVersion: "143.1"
+hidden: false
+subtitle: "pain"
